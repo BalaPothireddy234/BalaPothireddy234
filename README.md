@@ -1,5 +1,5 @@
 # About Me :D
-My Name is Bala Pothireddy and I am a Rising Senior attending Weddington High School in North Carolina, and I am dually enrolled at South Peidmont Community College. I want to become an Electrical Engineer because my goal is to accelerate research in the Renewable Energy sector.
+My Name is Bala Pothireddy and I am a Rising Senior attending Weddington High School in North Carolina, and I am dually enrolled at South Peidmont Community College. I want to become an Electrical Engineer because my goal is to accelerate research in the Renewable Energy sector. Currently, I am the President of the Environmental Club, Member of DECA (In which I placed 10th at the NC DECA conference in the Entrepreneurship Series Event), Member of Mock trials, Member of VEX Robotics, have earned over 40+ college credits in the span of two semesters of academia, gained experience in public speaking, time management, communication, and the ability to defend my ideas. I am also proficient in Onshape CAD software, and I am currently learning and working with Arduino Hardware and Software.
 <!--
 **BalaPothireddy234/BalaPothireddy234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
