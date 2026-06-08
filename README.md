@@ -1,6 +1,6 @@
 #BIO
 
-My Name Is Bala Pothireddy and I am a Rising Senior attending Weddington High School in North Carolina, and I am dually enrolled at South Peidmont Community College. I want to become an Electrical Engineer because my goal is to accelerate research in the Renewable Energy sector.
+My Name is Bala Pothireddy and I am a Rising Senior attending Weddington High School in North Carolina, and I am dually enrolled at South Peidmont Community College. I want to become an Electrical Engineer because my goal is to accelerate research in the Renewable Energy sector.
 <!--
 **BalaPothireddy234/BalaPothireddy234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
